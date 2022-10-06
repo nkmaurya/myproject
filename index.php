@@ -13,3 +13,5 @@ echo "this is another change in this file";
 // Jira integration with Git
 
 // Jira integration with Git with Advance commit option
+
+//Jira integration with Git with Advance commit option with time option only
